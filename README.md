@@ -100,14 +100,14 @@ A social loop that keeps people coming back
 
 ## Interface
 
-<p align="center"><i>Premium UI captures live in <code>screenshots/</code> — drop <code>01.png</code>, <code>02.png</code>, <code>03.png</code> and they appear below.</i></p>
+<p align="center"><i>Premium UI captures live in <code>screenshots/</code>.</i></p>
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" style="border-radius:16px" alt="01" />
+  <img src="screenshots/screenshots:01.png" width="240" style="border-radius:16px" alt="01" />
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" style="border-radius:16px" alt="02" />
+  <img src="screenshots/screenshots:02.png" width="240" style="border-radius:16px" alt="02" />
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" style="border-radius:16px" alt="03" />
+  <img src="screenshots/screenshots:03.png" width="240" style="border-radius:16px" alt="03" />
 </p>
 
 
