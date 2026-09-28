@@ -95,7 +95,6 @@ A social loop that keeps people coming back
 </tr>
 </table>
 
-
 <br />
 
 ## Interface
@@ -103,13 +102,12 @@ A social loop that keeps people coming back
 <p align="center"><i>Premium UI captures live in <code>screenshots/</code>.</i></p>
 
 <p align="center">
-  <img src="screenshots/screenshots:01.png" width="240" style="border-radius:16px" alt="01" />
+  <img src="screenshots/screenshot1.png" width="240" style="border-radius:16px" alt="01" />
   &nbsp;&nbsp;
-  <img src="screenshots/screenshots:02.png" width="240" style="border-radius:16px" alt="02" />
+  <img src="screenshots/screenshot2.png" width="240" style="border-radius:16px" alt="02" />
   &nbsp;&nbsp;
-  <img src="screenshots/screenshots:03.png" width="240" style="border-radius:16px" alt="03" />
+  <img src="screenshots/screenshot3.png" width="240" style="border-radius:16px" alt="03" />
 </p>
-
 
 <br />
 
